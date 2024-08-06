@@ -1,0 +1,48 @@
+# Node modules directory
+node_modules/
+
+# Build output
+.next/
+out/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+*.sw?
+*.code-workspace
+
+# Coverage reports
+coverage/
+
+# npm package lock file
+package-lock.json
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.pid
+*.seed
+
+# Git conflict files
+*.orig
